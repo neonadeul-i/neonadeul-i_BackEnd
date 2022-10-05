@@ -1,5 +1,5 @@
 # neonadeul-i_BackEnd
-Use Python flask, FastAPI
+Use Python flask
 
 ## 커밋 규칙
 - Create [파일명]: 새로운 파일을 생성했을 때
